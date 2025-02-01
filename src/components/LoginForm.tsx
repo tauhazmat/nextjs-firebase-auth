@@ -160,7 +160,7 @@ export default function LoginForm() {
         <GoogleSignInButton />
         <div style={{ textAlign: "center", marginTop: "1rem" }}>
           <Link href="/signup" style={{ color: "#4F46E5", textDecoration: "none", fontWeight: "500" }}>
-            Don't have an account? Sign up
+            Don&apos;t have an account? Sign up
           </Link>
         </div>
       </div>
